@@ -6,7 +6,7 @@ class Home extends StatelessWidget {
     return CustomScrollView(
       slivers: <Widget>[
         const CupertinoSliverNavigationBar(
-          largeTitle: Text('Home'),
+          largeTitle: Text('Flutter Templates'),
         ),
       ],
     );
