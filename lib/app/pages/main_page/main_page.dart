@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_templates/main/cupertino_main_scaffold.dart';
-import 'package:flutter_templates/main/tab_item.dart';
-import 'package:flutter_templates/main/tabs/hamza.dart';
-import 'package:flutter_templates/main/tabs/home.dart';
+import 'package:flutter_templates/app/pages/main_page/cupertino_main_scaffold.dart';
+import 'package:flutter_templates/app/pages/main_page/tab_item.dart';
+import 'package:flutter_templates/app/tabs/hamza.dart';
+import 'package:flutter_templates/app/tabs/home.dart';
 
 class MainPage extends StatefulWidget {
   @override

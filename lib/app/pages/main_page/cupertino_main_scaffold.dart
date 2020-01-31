@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_templates/main/tab_item.dart';
+import 'package:flutter_templates/app/pages/main_page/tab_item.dart';
 
 class CupertinoMainScaffold extends StatelessWidget {
   const CupertinoMainScaffold(

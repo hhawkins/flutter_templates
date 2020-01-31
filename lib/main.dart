@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_templates/main/main_page.dart';
+import 'package:flutter_templates/app/pages/main_page/main_page.dart';
 
 void main() => runApp(MyApp());
 
